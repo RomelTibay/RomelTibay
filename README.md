@@ -58,9 +58,9 @@ git push
 - Example: `git push origin main`
 
 
-git pull
-Description: Updates current local working brance with all new commits from the corresponding remote brance on GitHub.
-Combination of git fetch and git merge
+<h6>git pull</h6>
+<p>Description: Updates current local working brance with all new commits from the corresponding remote brance on GitHub.
+Combination of git fetch and git merge</p>
 
-git reset [commit]
-Description: Undoes all commits after [commit], preserving changes locally
+<h6>git reset [commit]</h6>
+<p>Description: Undoes all commits after [commit], preserving changes locally</p>
