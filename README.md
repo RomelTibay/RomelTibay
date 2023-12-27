@@ -59,8 +59,8 @@ git push
 
 
 git pull
-Updates current local working brance with all new commits from the corresponding remote brance on GitHub.
+Description: Updates current local working brance with all new commits from the corresponding remote brance on GitHub.
 Combination of git fetch and git merge
 
 git reset [commit]
-Undoes all commits after [commit], preserving changes locally
+Description: Undoes all commits after [commit], preserving changes locally
