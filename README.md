@@ -56,3 +56,11 @@ git push
 
 `<branch>`: (Optional) The branch name to push changes to.
 - Example: `git push origin main`
+
+
+git pull
+Updates current local working brance with all new commits from the corresponding remote brance on GitHub.
+Combination of git fetch and git merge
+
+git reset [commit]
+Undoes all commits after [commit], preserving changes locally
